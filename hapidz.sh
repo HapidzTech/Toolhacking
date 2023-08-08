@@ -20,7 +20,7 @@ red='\e[1;31m'
 figlet -f standard "xXx" | lolcat
 
 echo -e  "_____________________________________________________________"
-echo -e  "Team       : BandungSecurityLite $white         " |lolcat
+echo -e  "Team       : XAI SYNDICATE $white         " |lolcat
 echo -e  "CreatedBy  : HapidzTech $white   " |lolcat
 echo -e  "Contact    : hapidzkzsr@gmail.com $white " |lolcat
 echo -e  "Info       : ToolHacking $white" | lolcat
