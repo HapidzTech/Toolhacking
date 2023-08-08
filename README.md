@@ -1,3 +1,3 @@
-# Toolhacking created by HapidzTech
+# Toolhacking Coded by HapidzTech
 Cara jalanin nya 
 ./hapidz.sh 
